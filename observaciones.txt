@@ -1,0 +1,1 @@
+Observacion: practica de Git sobre Working Directory y Staging Area en la Evaluacion 02.
