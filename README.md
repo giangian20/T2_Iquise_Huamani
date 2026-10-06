@@ -28,3 +28,13 @@ Estudiante: Giancarlo Iquise Huamani
 
 En esta seccion se practico el uso de status, diff, add, reset, restore y commit para controlar los cambios entre el Working Directory, el Staging Area y el repositorio local.
 
+
+
+\## Gestion de ramas
+
+
+
+Rama utilizada: feature-iquise
+
+Cambio realizado: se creo la clase ControlVersion\_Iquise.java, que muestra un mensaje de identificacion del estudiante desde una rama independiente.
+
